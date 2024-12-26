@@ -1,6 +1,6 @@
 ﻿using yyLib;
 
-namespace _photoSelector
+namespace photoSelector
 {
     class Program
     {
